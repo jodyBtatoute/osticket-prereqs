@@ -65,6 +65,7 @@ Before installation, make sure your server meets the following requirements:
 2. Download the latest stable release (e.g., `osTicket-v1.18.x.zip`).
 
 ---
+<img width="2496" height="1664" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/ec2b482f-2847-43ef-9e12-3ed2dae065ec" />
 
 ### **Step 2: Upload Files to Your Web Server**
 
@@ -102,6 +103,7 @@ chmod -R 0775 setup/
 ---
 
 ### **Step 4: Create a MySQL Database**
+<img width="2496" height="1664" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/e4cc8be8-3aad-47e0-8341-4cc2ba87bc2b" />
 
 1. Log in to MySQL:
 
@@ -160,6 +162,7 @@ chmod -R 0775 setup/
 ---
 
 ### **Step 7: Access osTicket**
+<img width="2496" height="1664" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/123b5871-79c7-4b99-bd31-f18233fef97e" />
 
 * **Admin Panel:**
 
